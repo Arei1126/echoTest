@@ -1,11 +1,11 @@
-# Speech Recogniton Test
+# Echo Test
 ## NAME
-Speech Recogniton Test - A test app for speech recogniton API 
+Echo Test - A test app for speech recogniton and synthesis API
 
 ## DESCRIPTION
 
 ## OPTION
 
 ## Web Demo
-[here](https://arei1126.github.io/SpeechRecognitionTest/)
+[here](https://arei1126.github.io/echoTest/)
 
